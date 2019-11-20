@@ -1,0 +1,12 @@
+{
+  "apiPrefix": "http://54.93.252.93",
+  "apiPrefixLOCAL": "http://localhost",
+  "serverPort": "3010",
+  "getChannel": "channel",
+  "model3DStore": "/api/models3D/",
+  "db": {
+    "name": "managepasswords_db",
+    "host": "localhost",
+    "port": 27017
+  }
+}
